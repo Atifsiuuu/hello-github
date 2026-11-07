@@ -1,0 +1,12 @@
+# Python bytecode and cache folders
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local virtual environments and environment settings
+.venv/
+venv/
+.env
+.env.*
